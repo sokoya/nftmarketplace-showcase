@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/42377896/166887800-73bb4734-2f28-4682-8f46-3bc40549676c.png)
+
+# NFT Marketplace landing page
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
