@@ -2,6 +2,8 @@
 
 # NFT Marketplace landing page
 
+View on Netlify [https://resplendent-zuccutto-87b5d9.netlify.app/](https://resplendent-zuccutto-87b5d9.netlify.app/) 
+
 
 # Getting Started with Create React App
 
